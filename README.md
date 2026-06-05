@@ -18,4 +18,4 @@ cd handwriting-to-text-converter`
 3. Run the app: `streamlit run app.py`
 
 ## Live Demo
-[Link to your deployed Streamlit app]
+[Click here to try the Live Demo]https://handwriting-to-text-converter-anjgmhvatwyuzd8ehazdcy.streamlit.app/
